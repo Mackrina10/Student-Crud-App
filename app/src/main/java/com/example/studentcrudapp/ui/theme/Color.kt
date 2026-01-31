@@ -1,4 +1,4 @@
-package com.example.studentcrudappnow.ui.theme
+package com.example.studentcrudapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

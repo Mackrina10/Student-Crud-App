@@ -1,4 +1,4 @@
-package com.example.studentcrudappnow
+package com.example.studentcrudapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.example.studentcrudappnow
+package com.example.studentcrudapp
 
 import org.junit.Test
 
